@@ -12,7 +12,7 @@ This is meant to be an educational resource that improves our knowledge. This is
 High-quality sources should be included for any non-obvious answers. Ideally, your page will look like an ELI5 summary of source-backed factual answers. Don't try to write your thesis here. Keep it in the theme of "pocket-sized-rebuttal".
 
 ## Who, What, Where, When, Why
-This project was spearheaded by hax.btc and thedoc.btc. It is open to everyone who wants to contribute. You will be credited in your pages, along with all other editors.
+This project was spearheaded by [hax.btc](https://owl.link/hax.btc) and [thedoc.btc](https://twitter.com/CarlsonDoc). It is open to everyone who wants to contribute. You will be credited in your pages, along with all other editors.
 
 Someday, this may end up in your physical pocket! But until then, this repo will serve as the main homepage.
 
